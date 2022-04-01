@@ -1,5 +1,7 @@
 # TODO
 
+## Bug Fixes
+1. Fix modal opener, overflow: hidden; was added on wrong function
 ## Video
 
 1. Remove video hide and show
